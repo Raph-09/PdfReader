@@ -1,0 +1,35 @@
+#repurpose-ai {
+  color: red;
+}
+
+/* div.row-widget.stButton {
+    display: flex;
+  } */
+
+div.element-container.st-emotion-cache-1aege4m.e1f1d6gn4 {
+  display: flex;
+}
+
+buton.st-emotion-cache-19rxjzo.ef3psqc12 {
+  width: 4000px;
+  height: 4000px;
+}
+
+.st-emotion-cache-7ym5gk {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-weight: 400;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.5rem;
+  min-height: 38.4px;
+  margin: 0px;
+  line-height: 1.6;
+  color: inherit;
+  width: 700px;
+  user-select: none;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgba(49, 51, 63, 0.2);
+}
